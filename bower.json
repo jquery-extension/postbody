@@ -1,0 +1,30 @@
+{
+  "name": "jquery-postbody",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jquery-extension/postbody/",
+  "authors": [
+    "YongWoo Jeon<yongwoo.jeon@navercorp.com>"
+  ],
+  "description": "jQuery ajaxPrefilter that It easy send JSON Data by request body.",
+  "main": "postbody.js",
+  "keywords": [
+    "jQuery",
+    "postbody",
+    "ajaxPrefilter",
+    "hooks"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "/build",
+    "/dist",
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}

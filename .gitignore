@@ -1,0 +1,9 @@
+.*
+!.git*
+!.jshintrc
+!.jscsrc
+!.travis.yml
+dist
+node_modules
+*.iml
+build
