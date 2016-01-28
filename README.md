@@ -1,5 +1,5 @@
 # postbody 
-It easy post a JSON object as the post body.
+It is ajax option in jQuery. You easy post a JSON object as the post body.
 
 # Why use it?
 When you want to post a JSON object as the post body. You confuse it in jQuery.
