@@ -20,7 +20,7 @@ $.ajax({
 ```js
 $.ajax({
 	"data": {"foo":"bar"},
-	"postBody": true,
+	"postBody": true, // Just add it.
 	"url": "/YOUR/path",
 	"method": "post",
 	"success":function(req){
